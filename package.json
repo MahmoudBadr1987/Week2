@@ -1,0 +1,22 @@
+{
+  "name": "week2",
+  "version": "1.0.0",
+  "description": "Demo fo rWeek 2 ",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MahmoudBadr1987/Week2.git"
+  },
+  "author": "Mahmoud Badr 301171598",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MahmoudBadr1987/Week2/issues"
+  },
+  "homepage": "https://github.com/MahmoudBadr1987/Week2#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
